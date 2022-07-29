@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Geolocation</string>
+    <string name="maps_api_key">AIzaSyCuKMWBILIwzdA7QdOQ_6X0joFe0FqIbvc</string>
+
+    <string name="btn_main_open_map">Open Map</string>
+    <string name="btn_main_try_again_message">You need to enable permission to use this App</string>
+
+    <string name="btn_main_onbackpressed">Back</string>
+    <string name="tv_altitude_value">Not available</string>
+    <string name="tv_speed_value">Not available</string>
+
+    <string name="tv_status_provider_enable">Provider ON (GPS)</string>
+    <string name="tv_status_provider_disabled">Provider OFF (GPS)</string>
+    <string name="tv_status_provider_changed">Provider: %1$s, value %2$d</string>
+    <string name="tv_main_welcome">Welcome</string>
+
+    <string name="tv_map_status">Status:</string>
+    <string name="tv_map_value">N</string>
+    <string name="tv_map_address">"Address: "</string>
+    <string name="tv_map_speed">"Speed: "</string>
+    <string name="tv_map_altitude">"Altitude: "</string>
+    <string name="tv_map_accuracy">"Accuracy: "</string>
+    <string name="tv_map_longitude">"Longitude: "</string>
+    <string name="tv_map_latitude">"Latitude: "</string>
+
+</resources>
