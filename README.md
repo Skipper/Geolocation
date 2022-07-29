@@ -11,10 +11,10 @@ Este es un portafolio creado en Android Studio con Java y el API de Google para 
 - [![Image.png](https://i.postimg.cc/pTXFrLp2/Image.png)](https://postimg.cc/hJ6j3gLw)
 
 x2
-![](images/Image.png)
+![](Geolocation/images/Image.PNG)
 
 x3
-<img src="images/Image.png" width="50" height="100" />
+<img src="Geolocation/images/Image.PNG" width="50" height="100" />
 
 
 ## Instalación
