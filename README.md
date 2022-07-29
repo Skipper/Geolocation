@@ -10,6 +10,9 @@ Este es un portafolio creado en Android Studio con Java y el API de Google para 
 ## Ver ejemplo en vivo 
 - [![Image.png](https://i.postimg.cc/pTXFrLp2/Image.png)](https://postimg.cc/hJ6j3gLw)
 
+![](Image.png)
+<img src="Image.png" width="50" height="100" />
+
 ## Instalación
 Este proyecto requiere ser instalado en dispositivos móviles android. 
 
