@@ -13,12 +13,17 @@ Este es un portafolio creado en Android Studio con Java y el API de Google para 
 
 ## Environment Variables
 
-To run this project, you will need to add your own environment variables to your .env file
+To run this project, you'll need to add your own environment variables to your file: app/src/main/res/values/strings.xml
 
-`API_KEY_Google_Maps`
+`GOOGLE_MAPS_API_KEY`
 
 ## Instalación
 Este proyecto requiere ser instalado en dispositivos móviles android. 
+
+| Sdk      | Version      |
+| :------- | :----------- |
+| `min`    | **26**       |
+| `target` | **31**       |
 
 ## Contratación
 Si quieres contratarme puedes escribirme a dreamstime@outlook.es para consultas.
