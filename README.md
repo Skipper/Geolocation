@@ -1,8 +1,9 @@
-## Descripción 
+## Description
 
-Este es un portafolio creado en Android Studio con Java y el API de Google para visualizar la ubicación del usuario en el mapa y mostrar información referente a determinados puntos (marcadores).
+This is a portfolio created in Android Studio with Java and the Google API to display the user's location on the map and show reference information to certain points (markers).
 
-## Autor  
+## Author
+
 **Alejandro Martinez**
 
 * [LinkedIn](https://www.linkedin.com/in/diego-alejandro-martinez-espinosa-571086134)
@@ -17,13 +18,15 @@ To run this project, you'll need to add your own environment variables to your f
 
 `GOOGLE_MAPS_API_KEY`
 
-## Instalación
-Este proyecto requiere ser instalado en dispositivos móviles android. 
+## Installation
+
+This project requires to be installed on android mobile devices. 
 
 | Sdk      | Version      |
 | :------- | :----------- |
 | `min`    | **26**       |
 | `target` | **31**       |
 
-## Contratación
-Si quieres contratarme puedes escribirme a dreamstime@outlook.es para consultas.
+## Feedback
+
+If you have any feedback, please reach out to us at dreamstime@outlook.es
